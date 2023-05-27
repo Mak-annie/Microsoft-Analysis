@@ -44,7 +44,7 @@ The available dataset will be examined through analysis and visualizations.This 
 Only a few features and rows from the various datasets that were gathered are important to the procedure. As a result, in this stage, the features from each dataset that were not necessary were removed. After then, the remaining datasets were connected.
 
 ## Exploratory Data Analysis
-
+In this project, data visualizations were used to explore this data and aid in coming up with recommendations for one of the ways Microsoft could begin its journey in the movie industry.
 
 ## Conclusions
 -The recognition of popular genres.
