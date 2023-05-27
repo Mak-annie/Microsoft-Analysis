@@ -10,19 +10,29 @@ To perform exploratory data analysis in order to learn more about the kinds of m
 
 ## Specific Objectives
 -Conduct exploratory data analysis to find patterns, trends, and connections between audience preferences, box office success, and popular genres.
+
 -Draw conclusions that can be put into practice from the data analysis, highlighting the categories of movies that are connecting with audiences and doing well at the box office.
+
 -Deliver a thorough presentation that includes a summary of the data analysis's findings, conclusions, and suggestions.
 
 ## Notebook Structure
 -Reading the Data
+
 -Data Wrangling
+
 -Conclusions
+
 -Recommendations
 
 ## Data Understanding
-.....
+The project will utilize datasets that consist of details regarding film box office earnings, encompassing factors such as release dates, genres, budgets, ratings, production studios and revenue.
+
+To gain a comprehensive understanding of the dataset,explorative data analysis techniques will be employed.These techniques involve addressing missing values, veryfing data types, identifying duplicated and extracting pertinent features for analysis
 
 ## Methodology
+In this project, data analysis and visualization techniques in Python, utilizing libraries such as pandas and matplotlib,will be employed.
+
+The available dataset will be examined through analysis and visualizations.This process will help identify key relationships and trends, enabling the extraction of insights related to office performance.
 ## Data Wrangling
 Only a few features and rows from the various datasets that were gathered are important to the procedure. As a result, in this stage, the features from each dataset that were not necessary were removed. After then, the remaining datasets were connected.
 
@@ -31,11 +41,16 @@ Only a few features and rows from the various datasets that were gathered are im
 
 ## Conclusions
 -The recognition of popular genres.
+
 -The relationship between spending and profits at the box office, seasonal patterns that affect the popularity of movies.
+
 -Elements that contribute to audience contentment and favorable reviews.
 
 ## Recommendations
 -Focus on making movies in genres that have a track record of success and fit with Microsoft's brand and target audience's tastes.
+
 -Budget Allocation: Based on an investigation of the correlation between production budgets and box office results, optimize the budget allocation.
+
 -Release Strategy: Using seasonal trends and market factors, pinpoint advantageous release dates and times that historically generate higher box office receipts.
+
 -Focus on Content: Adapt the films' narratives to reflect the elements that have been found to increase viewer satisfaction, such as interesting plots, compelling characters, and creative storytelling methods.
