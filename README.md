@@ -1,7 +1,9 @@
 # Microsoft-Analysis
 ## AUTHOR:ANITA MAKORI
 
-![MOVIE!!](https://images.pexels.com/photos/6879095/pexels-photo-6879095.jpeg?auto=compress&cs=tinysrgb&w=600){:height="50%" width="100%"}
+<img src="https://images.pexels.com/photos/6879095/pexels-photo-6879095.jpeg" alt="MOVIE!!" width="600" height="300">
+
+![MOVIE!!](https://images.pexels.com/photos/6879095/pexels-photo-6879095.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 
 
