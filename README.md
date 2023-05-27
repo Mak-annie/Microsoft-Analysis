@@ -1,4 +1,8 @@
 # Microsoft-Analysis
+## AUTHOR: ANITA MAKORI
+
+![MOVIE](images/pexels-dmitry-demidov-3784221.jpg)
+
 #### Introduction
 Major firms are creating an increasing amount of unique video content for the entertainment market, grabbing the interest of viewers everywhere. Microsoft has strategically decided to enter the film industry by launching its own movie studio, motivated by this trend. Microsoft, however, finds it difficult to comprehend the essential elements that contribute to the box office success of movies due to a lack of prior industry expertise. This initiative intends to use exploratory data analysis to pinpoint the categories of movies that are currently performing extraordinarily well, offering useful information to help Microsoft's new film studio make wise choices.
 
