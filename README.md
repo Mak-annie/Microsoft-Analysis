@@ -15,8 +15,11 @@ To perform exploratory data analysis in order to learn more about the kinds of m
 
 ## Notebook Structure
 -Reading the Data
+
 -Data Wrangling
+
 -Conclusions
+
 -Recommendations
 
 ## Data Understanding
@@ -31,7 +34,9 @@ Only a few features and rows from the various datasets that were gathered are im
 
 ## Conclusions
 -The recognition of popular genres.
+
 -The relationship between spending and profits at the box office, seasonal patterns that affect the popularity of movies.
+
 -Elements that contribute to audience contentment and favorable reviews.
 
 ## Recommendations
